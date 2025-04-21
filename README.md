@@ -1,9 +1,3 @@
-<div align="center">
-  <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=fmt.Println(%22Hello%2C%20World%22);Sean, have a nice day!!&center=true&size=27" />
-  </div>
-</div>
-
 ### Yoo, I'm Sean👋
 
 [![Github](https://img.shields.io/github/followers/mattn?label=Follow&style=social)](https://github.com/seancloudnative)
